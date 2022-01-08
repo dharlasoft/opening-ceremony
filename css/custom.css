@@ -1,4 +1,5 @@
-button#start-operation {
+div#content-area {
     position: fixed;
     top: 50%;
+    right: 20%;
 }
